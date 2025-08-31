@@ -1,0 +1,2 @@
+# Robust-Regression-via-CVaR-norm-Minimization-A-Monte-Carlo-Study
+A Python-based numerical experiment comparing the out-of-sample performance of OLS, Quantile, and CVaR-norm regression models on simulated financial data with outliers. This project is the basis for an academic pre-print and demonstrates the practical implications of the risk-coherence principle from the Fundamental Risk Quadrangle framework.
