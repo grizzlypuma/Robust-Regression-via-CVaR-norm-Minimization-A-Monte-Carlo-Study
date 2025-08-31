@@ -38,9 +38,6 @@ source venv/bin/activate
 
 The script will run a 500-iteration Monte Carlo simulation, print the final averaged results to the console, and save the academic-style plot as academic_regression_plot.pdf.
 
-Конечно. Вот готовый README.md файл для вашего GitHub репозитория.
-
-Вам нужно просто скопировать весь текст ниже и вставить его в файл README.md в вашем проекте.
 
 Robust Regression via CVaR-norm Minimization: A Monte Carlo Study
 A Python-based numerical experiment comparing the out-of-sample performance of OLS, Quantile, and CVaR-norm regression models on simulated financial data with outliers. This project is the basis for an academic pre-print and demonstrates the practical implications of the risk-coherence principle from the Fundamental Risk Quadrangle framework.
